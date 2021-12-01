@@ -1,1 +1,7 @@
+#ifndef ESERCIZIO_7_NUMERI_PRIMI_LIB_H
+#define ESERCIZIO_7_NUMERI_PRIMI_LIB_H
+
+bool NumeroPrimo(int,int);
+
+#endif //ESERCIZIO_7_NUMERI_PRIMI_LIB_H
 
